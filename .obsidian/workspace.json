@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "pages/index.md",
+                "file": "_includes/Homepage.html",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "pages/index.md",
+                "file": "_includes/Homepage.html",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "pages/index.md",
+                "file": "_includes/Homepage.html",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "pages/index.md"
+                "file": "_includes/Homepage.html"
               }
             }
           }
@@ -148,8 +148,10 @@
   },
   "active": "6c40ff005083923a",
   "lastOpenFiles": [
-    "_notes/Public/Welcome.md",
+    "_includes/Nav.html",
+    "_includes/Homepage.html",
     "pages/index.md",
+    "_notes/Public/Welcome.md",
     "_posts/2020-03-01-features.md",
     "pages/posts.md",
     "pages/notes.md",
