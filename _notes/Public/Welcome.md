@@ -14,9 +14,3 @@ For my portfolio - novels, short stories and games, [go here](https://yudhanjaya
 I’m always working on several things at any given time. Sometimes these are tiny projects - sometimes they’re long, perpetual, possibly Sisyphean acts of tomfoolery. [This is what I’m working on right now.](https://yudhanjaya.com/Projects-570c4d8ac7164d768eb19a0cb95f4078?pvs=21)
 
 If you arrived at this website from a link that no longer exists, what you’re looking for [may be here](https://yudhanjaya.com/Essays-Notes-Detritus-62468a1a5cd44908b65a4452801bd989?pvs=21).
-
-
-Welcome to digital garden using Obsidian and Jekyll garden theme. This file is located in `_notes/Public`. Check the <a href="{{'/notes' | relative_url}}"> demo </a>, <a href="{{'/post/features' | relative_url}}"> features </a> to know more.
-
-Check [[Hidden Note]] to know how to create notes which won't appear on the feed!
-
