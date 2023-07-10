@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/done.md",
+                "file": "_posts/2020-03-12-done.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/done.md",
+                "file": "_posts/2020-03-12-done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/done.md",
+                "file": "_posts/2020-03-12-done.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/done.md"
+                "file": "_posts/2020-03-12-done.md"
               }
             }
           }
@@ -160,7 +160,7 @@
     "_layouts/Stylesheet.html",
     "_notes/Public/Welcome.md",
     "utilities/Autocomplete.ts",
-    "_posts/done.md",
+    "_posts/2020-03-12-done.md",
     "pages/posts.md",
     "_notes/Public/Hidden Note.md",
     "pages/404.md",
