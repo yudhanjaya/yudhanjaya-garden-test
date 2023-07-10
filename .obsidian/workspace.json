@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_includes/Homepage.html",
+                "file": "_posts/done.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_includes/Homepage.html",
+                "file": "_posts/done.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_includes/Homepage.html",
+                "file": "_posts/done.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_includes/Homepage.html"
+                "file": "_posts/done.md"
               }
             }
           }
@@ -148,18 +148,22 @@
   },
   "active": "6c40ff005083923a",
   "lastOpenFiles": [
-    "pages/posts.md",
     "_posts/2020-03-01-how-to.md",
-    "_layouts/Stylesheet.html",
-    "_layouts/Post.html",
-    "_includes/Feed.html",
+    "_includes/Related.html",
+    "_includes/Homepage.html",
+    "_includes/Footer.html",
     "_includes/Content.html",
-    "_notes/Public/Welcome.md",
+    "_includes/Backlinks.html",
+    "_includes/Feed.html",
     "_includes/Nav.html",
+    "_layouts/Post.html",
+    "_layouts/Stylesheet.html",
+    "_notes/Public/Welcome.md",
+    "utilities/Autocomplete.ts",
     "_posts/done.md",
+    "pages/posts.md",
     "_notes/Public/Hidden Note.md",
     "pages/404.md",
-    "_includes/Homepage.html",
     "pages/index.md",
     "pages/notes.md",
     "pages/lists.md"

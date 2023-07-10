@@ -1,9 +1,14 @@
+
 ---
 
 title: About me
+feed: hide
+date: 11-05-2022
+permalink: /done
 
 ---
-# About me
+
+
 
 I do a bunch of things that intersect:
 
