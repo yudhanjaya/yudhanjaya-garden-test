@@ -28,7 +28,7 @@ This dovetails with my writing work.  Most of my [**published research**](https:
 
 ### Journalism and community tech
 
-**I’m the co-founder and CEO of** [**Appendix.tech**](http://appendix.tech/), a media x technology operation that **fights misinformation** ([**Watchdog Sri Lanka](http://watchdog.team/))**, **builds software to help in times of crisis** ([**Watchdog Elixir**](https://github.com/team-watchdog/watchdog-elixir), [**Lanka.Kitchen**](https://lanka.kitchen/)), and **fills information gaps** between people and the government.
+**I’m the co-founder and CEO of** [**Appendix.tech**](http://appendix.tech/), a media x technology operation that **fights misinformation** ([**Watchdog Sri Lanka**](http://watchdog.team/)), **builds software to help in times of crisis** ([**Watchdog Elixir**](https://github.com/team-watchdog/watchdog-elixir), [**Lanka.Kitchen**](https://lanka.kitchen/)), and **fills information gaps** between people and the government.
 
 This dovetails with my work around public policy and AI. Essentially, I decided to move closer to the problems so I can help firefight. 
 
