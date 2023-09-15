@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2020-03-12-done.md",
+                "file": "_posts/2020-03-01-how-to.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2020-03-12-done.md",
+                "file": "_posts/2020-03-01-how-to.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2020-03-12-done.md",
+                "file": "_posts/2020-03-01-how-to.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2020-03-12-done.md"
+                "file": "_posts/2020-03-01-how-to.md"
               }
             }
           }
@@ -148,10 +148,17 @@
   },
   "active": "6c40ff005083923a",
   "lastOpenFiles": [
+    "_notes/Public/Welcome.md",
+    "_notes/Public/About me.md",
+    "_posts/2020-03-01-how-to.md",
+    "_notes/Public/Works in Progress.md",
+    "_notes/Public/Detritus.md",
+    "_notes/Public/Portfolio.md",
+    "_posts/Credits.md",
+    "_posts/Markdown Rendered.md",
+    "_posts/Hidden Note.md",
     "_includes/Homepage.html",
     "_layouts/Post.html",
-    "_posts/2020-03-12-done.md",
-    "_posts/2020-03-01-how-to.md",
     "_includes/Related.html",
     "_includes/Footer.html",
     "_includes/Content.html",
@@ -159,10 +166,8 @@
     "_includes/Feed.html",
     "_includes/Nav.html",
     "_layouts/Stylesheet.html",
-    "_notes/Public/Welcome.md",
     "utilities/Autocomplete.ts",
     "pages/posts.md",
-    "_notes/Public/Hidden Note.md",
     "pages/404.md",
     "pages/index.md",
     "pages/notes.md",
