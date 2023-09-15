@@ -12,11 +12,12 @@ There are a few large projects that I feel compelled to document:
 - [[The Salvage Crew]]
 - [[The Commonwealth Empire Trilogy]]
 
-Here's one where the documenting process is complete - I have nothing left to add.
+Here's are projects where the documenting process is complete - I have nothing left to add.
 
 - [[OSUN - The Poetry Machine]]
+- [[Numbercaste]]
 
-### 2023, September
+### Current: 2023, September
 
 - Finish porting yudhanjaya.com from Notion to Github
 - Work on Salvage Crew 2

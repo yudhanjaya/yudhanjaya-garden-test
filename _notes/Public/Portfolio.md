@@ -13,13 +13,13 @@ My work has won the Gratiaen Prize, been nominated for the Nebula and IGF awards
 
 ### Novels and other major work
 
-[The Salvage Crew (2020)](https://yudhanjaya.com/3577b41481b2405d94ca21f1d8ede1f7). A C-tier salvage crew sent out to scrap a downed colony ship. An AI poet overseer fueled by an actual AI poet ([OSUN / The Poetry Machine](https://yudhanjaya.com/d90a584526d04438a04b83f6c010456b)). A strange intelligence that plays the language game. This book was [listed by Polygon as one of 2020](https://www.polygon.com/22220762/best-books-2020-sci-fi-fantasy)’s best SFF books, became an Amazon and Washington Post bestseller, and was narrated by Nathan Fillion.
+[[The Salvage Crew]] (2020) A C-tier salvage crew sent out to scrap a downed colony ship. An AI poet overseer fueled by an actual AI poet ([OSUN / The Poetry Machine](https://yudhanjaya.com/d90a584526d04438a04b83f6c010456b)). A strange intelligence that plays the language game. This book was [listed by Polygon as one of 2020](https://www.polygon.com/22220762/best-books-2020-sci-fi-fantasy)’s best SFF books, became an Amazon and Washington Post bestseller, and was narrated by Nathan Fillion.
 
-[Sonnet for the Subconcious War, and other poems from the Automaton (2019)](https://yudhanjaya.com/d90a584526d04438a04b83f6c010456b). A poetry collaboration between my retrained GPT-instances and Dr. Samuel Peralta, bound for the Moon via the [Lunar Codex project](https://www.lunarcodex.com/).
+[[OSUN - The Poetry Machine]] - published as *Sonnet for the Subconscious War and other poems from the Automaton*. A poetry collaboration between my retrained GPT-instances and Dr. Samuel Peralta, bound for the Moon via the [Lunar Codex project](https://www.lunarcodex.com/).
 
-[The Commonwealth Empire trilogy (2018-present)](https://yudhanjaya.com/0db40ccfe8c14c30be0acbdbc99a33bc). Beginning with the Inhuman Race, this trilogy explores a machine uprising in a biopunk British Raj where Ceylon still remains under colonial rule.
+[[The Commonwealth Empire Trilogy]] (2018-ongoing, HarperCollins) Beginning with the Inhuman Race, this trilogy explores a machine uprising in a biopunk British Raj where Ceylon still remains under colonial rule.
 
-[Numbercaste (2017).](https://yudhanjaya.com/bc3c93076dc445f2bd111683a99c0552) My first novel, set in a near-future world where one tech startup sets out to upend the world of credit scoring - and ends up writing the formula for the future.
+[[Numbercaste]] (2018, self-published, later acquired by HarperCollins). My first novel, set in a near-future world where one tech startup sets out to upend the world of credit scoring - and ends up writing the formula for the future.
 
 I also work on a fictional, open-source city called [Witness over at the SciFi Economics Lab](http://scifieconomics.world/)[.](http://scifieconomics.world/) I’ve written lore, designed cults around rational risk-taking, and designed a card game to let people test out policies from vastly different social contracts against an oncoming apocalypse.
 
@@ -41,23 +41,23 @@ Here are some short stories: they’re an easy way to dip your toes and see if y
 
 [Work Ethics (2020, Wired.com)](https://www.wired.com/story/future-of-work-work-ethics-yudhanjaya-wijeratne/)
 
-[Odysseus: A Salvage Crew Short Story](https://yudhanjaya.com/73638b9f7bc44e56ae2805eb01e57ad6)
+[[Odysseus]]: A Salvage Crew Short Story
 
-[A Little Bit of Kali](https://yudhanjaya.com/73dee036f9834109814e0faec844947e) (2019, The Expanding Universe 6; republished 2021 in [Escape Pod #792, narrated by Kaushik Narasimhan](https://escapepod.org/2021/07/08/escape-pod-792-a-little-bit-of-kali-part-1/))
+[[A Little Bit of Kali]] (2019, The Expanding Universe 6; republished 2021 in [Escape Pod #792, narrated by Kaushik Narasimhan](https://escapepod.org/2021/07/08/escape-pod-792-a-little-bit-of-kali-part-1/))
 
-[Messenger, co-written with RR Virdi](https://yudhanjaya.com/cff978b5fac942e89ce9fef48c1b7c8f) (2018, The Expanding Universe 5; this story was nominated for the Nebula Award)
+[[Messenger]] (2018, The Expanding Universe 5; this story was nominated for the Nebula Award)
 
-[The Writing Contest](https://yudhanjaya.com/824fdd034b9e467f8747f04e3d1de44d) (2018, Future Visions)
+[[The Writing Contest]] (2018, Future Visions)
 
-[Deep Ocean Blues](https://yudhanjaya.com/40c8e2fc33614a9f98b6d8c9fcc90c0c) (2018, 2054)
+[[Deep Ocean Blues]] (2018, 2054)
 
-[Ozymandias](https://yudhanjaya.com/e52414106a5d40379c8b43afb55b7136) (2019, Horizons Beyond)
+[[Ozymandias]] (2019, Horizons Beyond)
 
-[Omega Point: a Short Story about God](https://yudhanjaya.com/aca76e42495f4e55b60c5143cb3eafc6) (2018)
+[[Omega Point]]: A Short Story About God (2018)
 
-[Dreadnought](https://yudhanjaya.com/e08dd30c2fe042acba755687a4288ab9) (2017, The Expanding Universe 3)
+[[Dreadnought]](2017, The Expanding Universe 3)
 
-[The Slow Sad Sucide of Rohan Wijeratne](https://yudhanjaya.com/db626198cce144bcaf0b211eee57c432) (2017)
+[[The Slow Sad Suicide of Rohan Wijeratne]] (2017)
 
 Others include:
 

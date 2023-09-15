@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/Numbercaste.md",
+                "file": "_notes/Public/Portfolio.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/Numbercaste.md",
+                "file": "_notes/Public/Portfolio.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/Numbercaste.md",
+                "file": "_notes/Public/Portfolio.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/Numbercaste.md"
+                "file": "_notes/Public/Portfolio.md"
               }
             }
           }
@@ -148,34 +148,42 @@
   },
   "active": "6c40ff005083923a",
   "lastOpenFiles": [
-    "_posts/nc1.png",
+    "_posts/A Little Bit of Kali.md",
+    "_notes/Public/Portfolio.md",
+    "_posts/Odysseus.md",
+    "_posts/Messenger.md",
+    "_posts/Ozymandias.md",
+    "_posts/Deep Ocean Blues.md",
+    "_posts/The Writing Contest.md",
+    "_posts/Dreadnought.md",
+    "_posts/Omega Point.md",
+    "Untitled.md",
+    "omegapoint 1.png",
+    "omegapoint.png",
+    "_posts/The Slow Sad Suicide of Rohan Wijeratne.md",
+    "ssrw.png",
+    "_posts/The Commonwealth Empire Trilogy.md",
+    "_posts/Markdown Rendered.md",
+    "_posts/view.png",
+    "_posts/drone.png",
+    "_posts/Credits.md",
+    "_posts/2020-03-01-how-to.md",
+    "_posts/Foreward to the Salvage Crew.md",
+    "_notes/Public/Works in Progress.md",
     "_posts/Numbercaste.md",
+    "_posts/OSUN - The Poetry Machine.md",
+    "_posts/Origami Meteorite.md",
+    "_posts/nc1.png",
     "_posts/nc2.png",
     "_posts/The Technology of the Commonwealth Empire.md",
     "_posts/The Salvage Crew.md",
-    "_notes/Public/Portfolio.md",
-    "_notes/Public/Works in Progress.md",
-    "_posts/The Commonwealth Empire Trilogy.md",
     "commonwealth7.png",
     "commonwealth6.png",
     "commonwealth5.png",
-    "commonwealth4.png",
-    "commonwealth3.png",
-    "commonwealth2.png",
-    "commonwealth1.png",
-    "_posts/Origami Meteorite.md",
-    "_posts/Foreward to the Salvage Crew.md",
-    "_posts/Credits.md",
-    "_posts/OSUN - The Poetry Machine.md",
-    "_posts/osunsemaphore.png",
     "_posts/The Earthbag Homestead.md",
-    "_posts/Markdown Rendered.md",
     "pages/404.md",
-    "_posts/2020-03-01-how-to.md",
     "_notes/Public/Welcome.md",
     "_notes/Public/About me.md",
-    "_notes/Public/Detritus.md",
-    "_posts/Hidden Note.md",
     "_includes/Homepage.html",
     "_layouts/Post.html",
     "_includes/Related.html",
@@ -185,10 +193,6 @@
     "_includes/Feed.html",
     "_includes/Nav.html",
     "_layouts/Stylesheet.html",
-    "utilities/Autocomplete.ts",
-    "pages/posts.md",
-    "pages/index.md",
-    "pages/notes.md",
-    "pages/lists.md"
+    "utilities/Autocomplete.ts"
   ]
 }
