@@ -9,6 +9,12 @@ There are a few large projects that I feel compelled to document:
 - [[The Earthbag Homestead]]
 - [[Origami Meteorite]]
 - The Wretched and the Damned
+- [[The Salvage Crew]]
+- [[The Commonwealth Empire Trilogy]]
+
+Here's one where the documenting process is complete - I have nothing left to add.
+
+- [[OSUN - The Poetry Machine]]
 
 ### 2023, September
 
