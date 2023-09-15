@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/The Earthbag Homestead.md",
+                "file": "_posts/The Salvage Crew.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/The Earthbag Homestead.md",
+                "file": "_posts/The Salvage Crew.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/The Earthbag Homestead.md",
+                "file": "_posts/The Salvage Crew.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/The Earthbag Homestead.md"
+                "file": "_posts/The Salvage Crew.md"
               }
             }
           }
@@ -148,24 +148,30 @@
   },
   "active": "6c40ff005083923a",
   "lastOpenFiles": [
-    "pages/404.md",
-    "_posts/The Earthbag Homestead.md",
-    "design.png",
-    "_posts/road.png",
-    "_posts/view.png",
-    "_posts/drone.png",
-    "_posts/map.png",
-    "_posts/kandy3.jpg",
-    "_posts/kandy2.jpg",
-    "_posts/kandy1.jpg",
+    "_posts/Foreward to the Salvage Crew.md",
+    "_posts/Credits.md",
     "_notes/Public/Works in Progress.md",
+    "_notes/Public/Portfolio.md",
+    "_posts/The Salvage Crew.md",
+    "_posts/OSUN - The Poetry Machine.md",
+    "osunsemaphore.png",
+    "Screenshot_20230120_112517.png",
+    "OSUN_2.jpg",
+    "OSUN.jpg",
+    "_posts/The Earthbag Homestead.md",
+    "_posts/Origami Meteorite.md",
+    "salvage_fillion.png",
+    "salvage_audible.png",
+    "salvage_audible 1.png",
+    "salvage_wapo.png",
+    "salvage_cover.png",
+    "_posts/Markdown Rendered.md",
+    "_posts/view.png",
+    "pages/404.md",
     "_posts/2020-03-01-how-to.md",
     "_notes/Public/Welcome.md",
     "_notes/Public/About me.md",
     "_notes/Public/Detritus.md",
-    "_notes/Public/Portfolio.md",
-    "_posts/Credits.md",
-    "_posts/Markdown Rendered.md",
     "_posts/Hidden Note.md",
     "_includes/Homepage.html",
     "_layouts/Post.html",

@@ -51,7 +51,7 @@ Farming project got much more serious. Ishan at Appendix brought up the idea of 
 
 01/06/2022
 
-While working on charting the collapse of agriculture in Sri Lanka via Appendix/Watchdog , Tineeka and I came across ‘Fools and Dreamers’ by Happen Films:
+While working on charting the collapse of agriculture in Sri Lanka via Appendix/Watchdog , Tineeka and I came across ‘Fools and Dreamers’ by Happen Films - https://www.youtube.com/watch?v=3VZSJKbzyMc.
 
 This stuck with us and took us down the rabbit hole of permaculture Youtube. We decided to grow our own food - and with food supply in Sri Lanka tumbling, that made it seem the right decision. Maybe the world does need a few more fools and dreamers in it.
 
