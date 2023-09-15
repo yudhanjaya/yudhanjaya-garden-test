@@ -13,7 +13,7 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "_posts/2020-03-01-how-to.md",
+                "file": "_posts/The Earthbag Homestead.md",
                 "mode": "source",
                 "source": false
               }
@@ -85,7 +85,7 @@
             "state": {
               "type": "backlink",
               "state": {
-                "file": "_posts/2020-03-01-how-to.md",
+                "file": "_posts/The Earthbag Homestead.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -102,7 +102,7 @@
             "state": {
               "type": "outgoing-link",
               "state": {
-                "file": "_posts/2020-03-01-how-to.md",
+                "file": "_posts/The Earthbag Homestead.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               }
@@ -125,7 +125,7 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "_posts/2020-03-01-how-to.md"
+                "file": "_posts/The Earthbag Homestead.md"
               }
             }
           }
@@ -148,10 +148,20 @@
   },
   "active": "6c40ff005083923a",
   "lastOpenFiles": [
+    "pages/404.md",
+    "_posts/The Earthbag Homestead.md",
+    "design.png",
+    "_posts/road.png",
+    "_posts/view.png",
+    "_posts/drone.png",
+    "_posts/map.png",
+    "_posts/kandy3.jpg",
+    "_posts/kandy2.jpg",
+    "_posts/kandy1.jpg",
+    "_notes/Public/Works in Progress.md",
+    "_posts/2020-03-01-how-to.md",
     "_notes/Public/Welcome.md",
     "_notes/Public/About me.md",
-    "_posts/2020-03-01-how-to.md",
-    "_notes/Public/Works in Progress.md",
     "_notes/Public/Detritus.md",
     "_notes/Public/Portfolio.md",
     "_posts/Credits.md",
@@ -168,7 +178,6 @@
     "_layouts/Stylesheet.html",
     "utilities/Autocomplete.ts",
     "pages/posts.md",
-    "pages/404.md",
     "pages/index.md",
     "pages/notes.md",
     "pages/lists.md"

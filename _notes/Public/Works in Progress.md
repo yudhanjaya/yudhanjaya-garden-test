@@ -9,5 +9,5 @@ permalink: /wip
 
 - Finish porting yudhanjaya.com from Notion to Github
 - Work on Salvage Crew 2
-- Finalize configuration stuff on my computers - this includes upgrading main PC and setting up a low-power (<5W) writing setup.
+- Finalize configuration stuff on my computers - this includes upgrading main PC and setting up a low-power (<5W) writing setup. I need this to not waste power at the homestead.
 - Check in and update on homestead progress
